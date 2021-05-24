@@ -18,17 +18,9 @@ The following **stretch** features are implemented:
 
 * [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/h32lFPW.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Software was not cooperating with me. No GIF this time. 
 
 ## Notes
 
