@@ -20,7 +20,12 @@ The following **stretch** features are implemented:
 
 ## Video Walkthrough
 
-Software was not cooperating with me. No GIF this time. 
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/zuxs9IP.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
